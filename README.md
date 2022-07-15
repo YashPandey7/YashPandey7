@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **react**
 
-- 👨‍💻 All of my projects are available at [yashpandey.netlify.app](yashpandey.netlify.app)
+- 👨‍💻 All of my projects are available at [yashpandey.netlify.app](https://yashpandey.netlify.app/)
 
 - 📫 How to reach me **yashdevesh10@gmail.com**
 
