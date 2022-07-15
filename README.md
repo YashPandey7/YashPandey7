@@ -1,6 +1,6 @@
 [![MasterHead](image.jpg)](https://yashpandey.netlify.app/)
 <h1 align="center">Hi 👋, I'm Yash Pandey</h1>
-<h3 align="center">A passionate frontend developer from India. Currently I am pursuing Bachelor of technology(B.Tech) with Information Technology(IT) Branch from Madan Mohan Malaviya University of Technology(MMMUT). Right after completing High school I started studying and working as a web developer. I am really interested in getting my hands on some experience. I'm looking forward to contributing my skills and experiences.</h3>
+<p align="center">A passionate frontend developer from India. Currently I am pursuing Bachelor of technology(B.Tech) with Information Technology(IT) Branch from Madan Mohan Malaviya University of Technology(MMMUT). Right after completing High school I started studying and working as a web developer. I am really interested in getting my hands on some experience. I'm looking forward to contributing my skills and experiences.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashpandey7&label=Profile%20views&color=0e75b6&style=flat" alt="yashpandey7" /> </p>
 
